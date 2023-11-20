@@ -149,6 +149,3 @@ export class ATM {
     return output;
   }
 }
-
-// TODO: tests
-// TODO: test for bogus commands
